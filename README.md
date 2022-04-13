@@ -1,1 +1,5 @@
 # seminar
+
+https://nahwasa.com/entry/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%A7%84%ED%96%89-%EC%98%81%EC%83%81-%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B8%B0%EB%B0%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%B4%EB%B3%B4%EA%B8%B0
+
+를 진행하다가 나온 부산물 리파지토리
